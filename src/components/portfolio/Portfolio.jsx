@@ -18,31 +18,31 @@ import IMG6 from '../../assets/portfolio6.jpg'
     id : 2,
     image: IMG2,
     title: 'DailyDoer',
-    github: 'https://github.com/GagandeepCodes/UpEvent'
+    github: 'https://github.com/GagandeepCodes/React-DailyDoer'
   },
   {
     id : 3,
     image: IMG3,
     title: 'NewsVerse',
-    github: 'https://github.com/GagandeepCodes/UpEvent'
+    github: 'https://github.com/GagandeepCodes/React-NewsVerse'
   },
   {
     id : 4,
     image: IMG4,
     title: 'Portfolio',
-    github: 'https://github.com/GagandeepCodes/UpEvent'
+    github: 'https://github.com/GagandeepCodes/React-Portfolio'
   },
   {
     id : 5,
     image: IMG5,
     title: 'ClimaCast',
-    github: 'https://github.com/GagandeepCodes/UpEvent'
+    github: 'https://github.com/GagandeepCodes/React-ClimaCast'
   },
   {
     id : 6,
     image: IMG6,
-    title: 'UpEvent',
-    github: 'https://github.com/GagandeepCodes/UpEvent'
+    title: 'Tic-Tac-Toe',
+    github: 'https://github.com/GagandeepCodes/React-Tic-Tac-Toe'
   }
 ]
 
