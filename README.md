@@ -1,5 +1,7 @@
 # React Portfolio
-![Mockup](https://github.com/GagandeepCodes/React-Portfolio/assets/107742349/be94d57d-733b-44be-a0bb-3f8b0a38c2b2)
+
+![Portfolio Showcase](https://github.com/GagandeepCodes/React-Portfolio/assets/107742349/31b4af04-c4c7-4304-b465-6bd766aec9a7)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
